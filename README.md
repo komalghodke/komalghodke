@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 ## 📊 GitHub Stats
 ![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=komalghodke&show_icons=true&theme=radical)
 
+
 ## 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=komalghodke&layout=compact&theme=radical)
 
@@ -35,7 +36,10 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 ## 🚀 Featured Projects
 - [Coding Foundations Java](https://github.com/komalghodke/coding-foundations-java) – Java basics and problem‑solving exercises.
 
-![Komal's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=komalghodke&theme=radical)
+## ✍️ Latest Articles
+- [Building Secure APIs with Spring Boot](https://medium.com/@komalghodke)
+- [Scaling Platforms with AWS](https://medium.com/@komalghodke)
+
 
 ## 📊 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=komalghodke&color=blue)
