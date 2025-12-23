@@ -13,8 +13,6 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=komalghodke&layout=compact&theme=radical)
 
 ## 🛠 Tech Stack
-
-### Core Skills
 ![Java](https://img.shields.io/badge/Code-Java-orange)
 ![Spring Boot](https://img.shields.io/badge/Framework-SpringBoot-green)
 ![Spring MVC](https://img.shields.io/badge/Framework-SpringMVC-darkgreen)
@@ -22,17 +20,16 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 ![AWS](https://img.shields.io/badge/Cloud-AWS-yellow)
 ![CI/CD](https://img.shields.io/badge/DevOps-CI/CD-lightgrey)
 ![ReactJS](https://img.shields.io/badge/Frontend-ReactJS-blue)
-
-### Backend & Testing
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
 ![JWT](https://img.shields.io/badge/Auth-JWT-red)
 ![OAuth2](https://img.shields.io/badge/Auth-OAuth2-orange)
 ![Postman](https://img.shields.io/badge/API-Postman-orange)
 ![JIRA](https://img.shields.io/badge/PM-JIRA-blue)
+![AWS SDK for Java](https://img.shields.io/badge/AWS-SDK%20for%20Java-orange)
 
 ### Java Versions
 ![Java 8](https://img.shields.io/badge/Java-8-orange)
-![Java 11](https://img.shields.io/badge/Java-11-red)
+![Java 11](https://img.shields.io/badge/Java-11%20Amazon%20Corretto-orange)
 ![Java 17](https://img.shields.io/badge/Java-17-green)
 
 ## 🚀 Featured Projects
