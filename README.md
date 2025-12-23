@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 
 ### Java Versions
 ![Java 8](https://img.shields.io/badge/Java-8-orange)
-![Java 11](https://img.shields.io/badge/Java-11%20Amazon%20Corretto-orange)
+![Java 11](https://img.shields.io/badge/Java-11%20Amazon%20Corretto-1A2A40)
 ![Java 17](https://img.shields.io/badge/Java-17-green)
 
 ## 🚀 Featured Projects
