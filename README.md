@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 ## 📊 GitHub Stats
 ![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=komalghodke&show_icons=true&theme=radical)
 
-
 ## 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=komalghodke&layout=compact&theme=radical)
 
@@ -45,5 +44,4 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 - [From Code to Client](https://komalghodke.github.io/Blogs/code-to-client.html)
 
 ## 📫 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-1A2A40?style=for-the-badge&logo=google-chrome&logoColor=white)](https://komalghodke.github.io/contact.html)
-
+[![Contact](https://img.shields.io/badge/Contact-Form-1A2A40?style=for-the-badge&logo=gmail&logoColor=white)](https://komalghodke.github.io/contact.html)
