@@ -20,13 +20,11 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 ![Spring MVC](https://img.shields.io/badge/Framework-SpringMVC-darkgreen)
 ![REST APIs](https://img.shields.io/badge/API-REST-blue)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-yellow)
-![Git](https://img.shields.io/badge/Tool-Git-black)
 ![CI/CD](https://img.shields.io/badge/DevOps-CI/CD-lightgrey)
 ![ReactJS](https://img.shields.io/badge/Frontend-ReactJS-blue)
 
 ### Backend & Testing
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
-![JPA](https://img.shields.io/badge/ORM-JPA-lightblue)
 ![JWT](https://img.shields.io/badge/Auth-JWT-red)
 ![OAuth2](https://img.shields.io/badge/Auth-OAuth2-orange)
 ![Postman](https://img.shields.io/badge/API-Postman-orange)
