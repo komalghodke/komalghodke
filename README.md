@@ -6,6 +6,9 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 
 > “Code with purpose. Build with impact.”
 
+![Komal Ghodke — Full‑Stack Developer](assets/banner.gif)
+
+
 ## 📊 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=komalghodke&color=blue)
 
