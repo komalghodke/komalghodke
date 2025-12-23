@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 🚀 **Visit My:** [![Portfolio](https://img.shields.io/badge/Portfolio-Website-1A2A40?style=for-the-badge&logo=google-chrome&logoColor=white)](https://komalghodke.github.io)
 
 > “Code with purpose. Build with impact.”
-
-![Komal Ghodke — Full‑Stack Developer](assets/banner.gif)
+## Profile
+![Komal Ghodke — Full‑Stack Developer](assets/Banner.gif)
 
 
 ## 📊 Profile Views
