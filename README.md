@@ -35,5 +35,7 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 ## 🚀 Featured Projects
 - [Coding Foundations Java](https://github.com/komalghodke/coding-foundations-java) – Java basics and problem‑solving exercises.
 
+![Komal's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=komalghodke&theme=radical)
+
 ## 📊 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=komalghodke&color=blue)
