@@ -13,7 +13,8 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=komalghodke&layout=compact&theme=radical)
 
 ## 📊 Profile Views
-![Profile Views](https://komalghodke-profile-counter.vercel.app/api/views)
+![Profile Views](https://komarev.com/ghpvc/?username=komalghodke&color=blue)
+
 
 
 
