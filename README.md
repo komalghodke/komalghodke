@@ -1,5 +1,4 @@
-## Full-Stack Developer 👩‍💻
-![Full-Stack Developer](https://img.shields.io/badge/👩‍💻-Full--Stack--Developer-blue?style=for-the-badge)
+## ![Full-Stack Developer](https://img.shields.io/badge/👩‍💻-Full--Stack--Developer-blue?style=for-the-badge)
 
 Welcome to my GitHub profile! I specialize in building secure, scalable platforms for service-based businesses. My work spans frontend and backend development, cloud deployment, and API integration.
 
