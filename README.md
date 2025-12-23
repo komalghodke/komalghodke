@@ -1,12 +1,6 @@
 ## Full-Stack Developer 👩‍💻
 ![Developer](https://img.shields.io/badge/Role-Developer-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Coder](https://img.shields.io/badge/Coder-💻-purple?style=for-the-badge)
-![Bug Hunter](https://img.shields.io/badge/Bug🐛-Hunter-orange?style=for-the-badge)
-![Rocket](https://img.shields.io/badge/Ship🚀-Projects-success?style=for-the-badge)
 ![Dev](https://img.shields.io/badge/👩‍💻-Developer-blue?style=for-the-badge)
-![Tools](https://img.shields.io/badge/⚙️-Builder-lightgrey?style=for-the-badge)
-![BugFix](https://img.shields.io/badge/🐛-Fixer-orange?style=for-the-badge)
-![Launch](https://img.shields.io/badge/🚀-Launcher-success?style=for-the-badge)
 
 
 
