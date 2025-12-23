@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I specialize in building secure, scalable platforms for service-based businesses. My work spans frontend and backend development, cloud deployment, and API integration.
 
-🚀 **Portfolio:** [![Visit My Portfolio](https://img.shields.io/badge/Portfolio-Website-1A2A40?style=for-the-badge&logo=google-chrome&logoColor=white)](https://komalghodke.github.io)
+🚀 **Visit my Portfolio:** [!(https://img.shields.io/badge/Portfolio-Website-1A2A40?style=for-the-badge&logo=google-chrome&logoColor=white)](https://komalghodke.github.io)
 
 > “Code with purpose. Build with impact.”
 
@@ -44,5 +44,5 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 - [Feasibility Analysis in API Integration](https://komalghodke.github.io/Blogs/feasibilityDoc.html)
 - [From Code to Client](https://komalghodke.github.io/Blogs/code-to-client.html)
 
-## 📫 Connect With Me [![Connect With Me ](https://img.shields.io/badge/Portfolio-Website-1A2A40?style=for-the-badge&logo=google-chrome&logoColor=white)](https://komalghodke.github.io/contact.html))
+## 📫 Connect With Me [!(https://img.shields.io/badge/Portfolio-Website-1A2A40?style=for-the-badge&logo=google-chrome&logoColor=white)](https://komalghodke.github.io/contact.html))
 
