@@ -15,4 +15,9 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 ## 📊 Profile Views
 ![Profile Views](https://komalghodke-profile-counter.vercel.app/api/views)
 
+## badge per repo
+![Repo Stars](https://img.shields.io/github/stars/komalghodke/portfolio?style=social)
+![Stars](https://img.shields.io/github/stars/komalghodke/portfolio?style=social)
+
+
 
