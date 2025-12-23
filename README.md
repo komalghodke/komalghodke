@@ -45,4 +45,3 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 - [From Code to Client](https://komalghodke.github.io/Blogs/code-to-client.html)
 
 ## 📫 Connect With Me [!(https://img.shields.io/badge/Portfolio-Website-1A2A40?style=for-the-badge&logo=google-chrome&logoColor=white)](https://komalghodke.github.io/contact.html))
-
