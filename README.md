@@ -6,6 +6,9 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 
 > “Code with purpose. Build with impact.”
 
+## 📊 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=komalghodke&color=blue)
+
 ## 📊 GitHub Stats
 ![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=komalghodke&show_icons=true&theme=radical)
 
@@ -37,9 +40,8 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 - [Coding Foundations Java](https://github.com/komalghodke/coding-foundations-java) – Java basics and problem‑solving exercises.
 
 ## ✍️ My Latest Articles
-- [JWT vs OAuth2: Choosing the Right Auth Strategy for Secure Platforms](https://komalghodke.github.io/Blogs/jwt-vs-oauth2.html)
-- [Feasibility Analysis in API Integration](https://komalghodke.github.io/Blogs/feasibilityDoc.html))
+- [JWT vs OAuth2](https://komalghodke.github.io/Blogs/jwt-vs-oauth2.html)
+- [Feasibility Analysis in API Integration](https://komalghodke.github.io/Blogs/feasibilityDoc.html)
 - [From Code to Client](https://komalghodke.github.io/Blogs/code-to-client.html)
 
-## 📊 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=komalghodke&color=blue)
+## 📫 Connect With Me [![Portfolio](https://img.shields.io/badge/Portfolio-Website-1A2A40?style=for-the-badge&logo=google-chrome&logoColor=white)](https://komalghodke.github.io)
