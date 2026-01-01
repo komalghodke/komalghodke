@@ -43,6 +43,7 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 - [JWT vs OAuth2](https://komalghodke.github.io/Blogs/jwt-vs-oauth2.html)
 - [Feasibility Analysis in API Integration](https://komalghodke.github.io/Blogs/feasibilityDoc.html)
 - [From Code to Client](https://komalghodke.github.io/Blogs/code-to-client.html)
+- [Code with Purpose](https://komalghodke.github.io/Blogs/CodeWithPurpose.html)
 
 ## 📫 Connect With Me
 [![Contact](https://img.shields.io/badge/Contact-Form-1A2A40?style=for-the-badge&logo=gmail&logoColor=white)](https://komalghodke.github.io/contact.html)
