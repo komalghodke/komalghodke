@@ -49,7 +49,8 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 ![JIRA](https://img.shields.io/badge/PM-JIRA-blue)
 ![AWS SDK for Java](https://img.shields.io/badge/AWS-SDK%20for%20Java-orange)
 
----
+## 🤖 GENAI
+![GENAI](https://img.shields.io/badge/Skill-GENAI-purple?style=for-the-badge)
 
 ### Java Versions
 ![Java 8](https://img.shields.io/badge/Java-8-orange)
