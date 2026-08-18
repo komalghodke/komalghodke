@@ -86,22 +86,38 @@ A structured collection of notes, practical programs, coding exercises, assignme
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Project
 
-### 🏆 FitNexus — Holistic Wellness Platform
+## 🏆 FitNexus — Holistic Wellness Platform
 
-A full-stack wellness platform designed to provide a centralized experience for tracking and managing holistic health and lifestyle data.
+A **full-stack, multilingual wellness platform** designed to provide a centralized experience for assessing, tracking, and managing holistic health and lifestyle data.
 
-Built independently using **Java, Spring Boot, and ReactJS**, covering:
+Built independently across **frontend, backend, microservices, database, AI integration, security, reporting, and deployment**, with a focus on scalable architecture and practical real-world workflows.
 
-- 🏗️ Application architecture
-- ⚙️ Backend & REST API development
-- 🎨 ReactJS frontend development
-- 🌐 Multilingual user experience
-- 🔐 Authentication & security
-- 🔍 SEO considerations
-- ☁️ Cloud deployment & infrastructure
-- 🔄 Deployment readiness and integration
+### 🏗️ Architecture & Technology
+
+| **Layer** | **Technology & Role** |
+|---|---|
+| **Frontend** | React.js 18, Material-UI v5, React Router v6, Axios, i18next, jsPDF |
+| **Primary Backend API** | Java 17, Spring Boot 4, Spring Security (JWT), Spring Data JPA, Hibernate |
+| **Corporate Microservice** | C# ASP.NET Core 8 Web API — Corporate Wellness Dashboard & Metrics |
+| **Cloud Database** | Aiven MySQL 8.0 Cloud Instance with SSL Encryption & Auto Schemas |
+| **AI Engine** | Google Gemini AI (`gemini-2.0-flash`) + Offline Rule-Based Fallback Engine |
+
+### ✨ Key Features
+
+- 🧘 **YCB-Aligned Yoga Prescriptions** — personalized pose recommendations for back, neck, joint & knee pain
+- 🤖 **Google Gemini AI Wellness Companion** — real-time AI guidance with 100% offline fallback
+- 📊 **27-Indicator Assessment** across 6 Dimensions of Wellness
+- 🔮 **7 Chakra Energy Mapping Engine**
+- 📄 **Exportable PDF Wellness Reports** with branding, watermark & medical disclaimers
+- 🔐 **JWT-Secured Role-Based Portals** — Member, Yoga Instructor, Gym Trainer, Admin
+- 🌍 **Multi-language Support** using i18next
+- 🛡️ **DPDP Act 2023 & GDPR Compliant** Privacy Policy
+
+### 🧩 Technology Stack
+
+**React.js 18 • Java 17 • Spring Boot 4 • C# ASP.NET Core 8 • MySQL 8 • Google Gemini AI**
 
 ### 🌐 Live Application
 
