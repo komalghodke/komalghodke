@@ -12,11 +12,6 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 ## 📊 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=komalghodke&color=blue)
 
-### 👥 Visitor Badges
-![Followers](https://img.shields.io/github/followers/komalghodke?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/komalghodke?label=Stars&style=social)
-![Repos](https://img.shields.io/badge/Public%20Repos-XX-blue)
-
 ---
 
 ## 📊 GitHub Stats
@@ -27,8 +22,10 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 
 ---
 
-## Contribution Graph
+## 📈 Contribution Graph
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=komalghodke&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=komalghodke&theme=radical)
 
 ---
 
@@ -58,12 +55,16 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 ![Java 8](https://img.shields.io/badge/Java-8-orange)
 ![Java 11](https://img.shields.io/badge/Java-11%20Amazon%20Corretto-1A2A40)
 ![Java 17](https://img.shields.io/badge/Java-17-green)
+![Java 21](https://img.shields.io/badge/Java-21-blue)
 
 ---
+## 👥 Visitor Badges
+![Followers](https://img.shields.io/github/followers/komalghodke?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/komalghodke?label=Stars&style=social)
+![Repos](https://img.shields.io/github/repo-count/komalghodke?label=Public%20Repos&color=blue)
 
 ## 🚀 Featured Projects
-- [Coding Foundations Java](https://github.com/komalghodke/coding-foundations-java) – Java basics and problem‑solving exercises.
-
+- [fit-nexus-showcase](https://github.com/komalghodke/fit-nexus-showcase.git) – fit-nexus Holistic Wellness Platform.
 ---
 
 ## ✍️ My Latest Articles
