@@ -1,4 +1,3 @@
-```markdown
 ## 👩‍💻 Full-Stack Developer
 
 Welcome to my GitHub profile! I specialize in building secure, scalable platforms for service-based businesses. My work spans frontend and backend development, cloud deployment, and API integration.
@@ -19,7 +18,7 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 
 ## 📈 GitHub Activity
 
-[![Komal Ghodke's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=komalghodke&theme=github&hide_border=true)](https://github.com/komalghodke)
+![Komal Ghodke's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=komalghodke&theme=github&hide_border=true)
 
 ---
 
@@ -84,4 +83,3 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 ## 📫 Connect With Me
 
 [![Contact](https://img.shields.io/badge/Contact-Form-1A2A40?style=for-the-badge&logo=gmail&logoColor=white)](https://komalghodke.github.io/contact.html)
-```
