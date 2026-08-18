@@ -33,8 +33,6 @@ Currently pursuing **Post Graduate Certificate Programme in Advanced Computing**
 A structured collection of notes, practical programs, coding exercises, assignments, and learning resources documenting my C-DAC journey.
 
 ### 🎓 Bachelor of Engineering — Computer Engineering
-
-**Dr. D. Y. Patil Institute of Technology, Pimpri, Pune**  
 **2018 – 2021 | 9.34 SGPA**
 
 ---
