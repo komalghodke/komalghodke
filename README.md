@@ -23,37 +23,50 @@ Currently pursuing **PGCP-AC — Advanced Computing at C-DAC**, strengthening my
 ## 🎓 Education & Continuous Learning
 
 ### 📚 PGCP-AC — Advanced Computing | C-DAC
+
 **Feb 2026 – Present**
 
-Currently pursuing Post Graduate Certificate Programme in Advanced Computing, with hands-on learning across Java, DSA, C++, Database Technologies, Web Programming, Software Development, DevOps, and related technologies.
+Currently pursuing **Post Graduate Certificate Programme in Advanced Computing**, with hands-on learning across Java, DSA, C++, Database Technologies, Web Programming, Software Development, DevOps, and related technologies.
 
-📖 **Learning Repository:**  
-[PGCP-AC-CDAC-2026_LEARNINGS](https://github.com/komalghodke/PGCP-AC-CDAC-2026_LEARNINGS)
+📖 **[Explore My C-DAC Learning Journey →](https://github.com/komalghodke/PGCP-AC-CDAC-2026_LEARNINGS)**
 
 A structured collection of notes, practical programs, coding exercises, assignments, and learning resources documenting my C-DAC journey.
 
 ### 🎓 Bachelor of Engineering — Computer Engineering
+
+**Dr. D. Y. Patil Institute of Technology, Pimpri, Pune**  
 **2018 – 2021 | 9.34 SGPA**
 
 ---
 
 ## 🛠 Tech Stack
 
+### 💻 Development
+
 ![Java](https://img.shields.io/badge/Code-Java-orange)
 ![Spring Boot](https://img.shields.io/badge/Framework-SpringBoot-green)
 ![Spring MVC](https://img.shields.io/badge/Framework-SpringMVC-darkgreen)
 ![REST APIs](https://img.shields.io/badge/API-REST-blue)
-![AWS](https://img.shields.io/badge/Cloud-AWS-yellow)
+![ReactJS](https://img.shields.io/badge/Frontend-ReactJS-blue)
 ![ASP.NET](https://img.shields.io/badge/Framework-ASP.NET-blue)
 ![C#](https://img.shields.io/badge/Code-C%23-purple)
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/Cloud-AWS-yellow)
 ![Docker](https://img.shields.io/badge/DevOps-Docker-blue)
 ![Jenkins](https://img.shields.io/badge/CI/CD-Jenkins-red)
-![Microservices](https://img.shields.io/badge/Architecture-Microservices-green)
 ![CI/CD](https://img.shields.io/badge/DevOps-CI/CD-lightgrey)
-![ReactJS](https://img.shields.io/badge/Frontend-ReactJS-blue)
+![Microservices](https://img.shields.io/badge/Architecture-Microservices-green)
+
+### 🗄️ Database & Security
+
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
 ![JWT](https://img.shields.io/badge/Auth-JWT-red)
 ![OAuth2](https://img.shields.io/badge/Auth-OAuth2-orange)
+
+### 🔧 Tools & APIs
+
 ![Postman](https://img.shields.io/badge/API-Postman-orange)
 ![JIRA](https://img.shields.io/badge/PM-JIRA-blue)
 ![AWS SDK for Java](https://img.shields.io/badge/AWS-SDK%20for%20Java-orange)
@@ -64,19 +77,12 @@ A structured collection of notes, practical programs, coding exercises, assignme
 
 ![GENAI](https://img.shields.io/badge/Skill-GENAI-purple?style=for-the-badge)
 
-### Java Versions
+### ☕ Java Versions
 
 ![Java 8](https://img.shields.io/badge/Java-8-orange)
 ![Java 11](https://img.shields.io/badge/Java-11%20Amazon%20Corretto-1A2A40)
 ![Java 17](https://img.shields.io/badge/Java-17-green)
 ![Java 21](https://img.shields.io/badge/Java-21-blue)
-
----
-
-## 👥 Visitor Badges
-
-![Followers](https://img.shields.io/github/followers/komalghodke?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/komalghodke?label=Stars&style=social)
 
 ---
 
@@ -86,7 +92,7 @@ A structured collection of notes, practical programs, coding exercises, assignme
 
 A full-stack wellness platform designed to provide a centralized experience for tracking and managing holistic health and lifestyle data.
 
-Built independently using **Java, Spring Boot, ReactJS, and AWS**, covering:
+Built independently using **Java, Spring Boot, and ReactJS**, covering:
 
 - 🏗️ Application architecture
 - ⚙️ Backend & REST API development
@@ -107,16 +113,50 @@ A complete demonstration of the **FitNexus** application, including all major fe
 
 📹 **[Watch FitNexus Demo Video](https://drive.google.com/file/d/1V-UAP2zLRc3aX8AZHLoHk_puqVhQxbtP/view?usp=drive_link)**
 
+### 💻 Source & Showcase
+
 🔗 **[View FitNexus Showcase Repository](https://github.com/komalghodke/fit-nexus-showcase.git)**
 
 ---
 
-## ✍️ My Latest Articles
+## 🌱 Currently Learning
 
-- [JWT vs OAuth2](https://komalghodke.github.io/Blogs/jwt-vs-oauth2.html)
-- [Feasibility Analysis in API Integration](https://komalghodke.github.io/Blogs/feasibilityDoc.html)
-- [From Code to Client](https://komalghodke.github.io/Blogs/code-to-client.html)
-- [Code with Purpose](https://komalghodke.github.io/Blogs/CodeWithPurpose.html)
+As part of my continuous learning and C-DAC journey, I am currently strengthening my skills in:
+
+- ☕ Advanced Java & Spring ecosystem
+- 🧩 Data Structures & Algorithms
+- 🗄️ Database Technologies
+- 🌐 Web Programming
+- 🏗️ Software Development & Architecture
+- 🐳 Docker & DevOps
+- ☁️ Cloud Technologies
+- 🤖 GenAI & AI-assisted development
+
+---
+
+## ✍️ Technical Writing
+
+I enjoy documenting technical concepts, development practices, and lessons learned through software development.
+
+- 🔐 [JWT vs OAuth2](https://komalghodke.github.io/Blogs/jwt-vs-oauth2.html)
+- 🔌 [Feasibility Analysis in API Integration](https://komalghodke.github.io/Blogs/feasibilityDoc.html)
+- 🚀 [From Code to Client](https://komalghodke.github.io/Blogs/code-to-client.html)
+- 💡 [Code with Purpose](https://komalghodke.github.io/Blogs/CodeWithPurpose.html)
+
+---
+
+## 💡 My Approach
+
+> “Code with purpose. Build with impact.”
+
+I believe good software is not only about writing code — it is about understanding the problem, designing practical solutions, and continuously improving along the way.
+
+---
+
+## 👀 Profile
+
+![Followers](https://img.shields.io/github/followers/komalghodke?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/komalghodke?label=Stars&style=social)
 
 ---
 
