@@ -1,6 +1,10 @@
 ## 👩‍💻 Full-Stack Developer
 
-Welcome to my GitHub profile! I specialize in building secure, scalable platforms for service-based businesses. My work spans frontend and backend development, cloud deployment, and API integration.
+IT professional with **4+ years of experience in software development**, focused on continuous learning, problem-solving, and building reliable software solutions.
+
+My experience spans **Java, Spring Boot, ReactJS, REST APIs, AWS, ASP.NET, C#, Docker, Jenkins, and Microservices**.
+
+Currently pursuing **PGCP-AC — Advanced Computing at C-DAC**, strengthening my expertise across modern software development, cloud, DevOps, databases, and full-stack engineering.
 
 🚀 **Visit My:** [![Portfolio](https://img.shields.io/badge/Portfolio-Website-1A2A40?style=for-the-badge&logo=google-chrome&logoColor=white)](https://komalghodke.github.io)
 
@@ -16,9 +20,20 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 
 ---
 
-## 📈 GitHub Activity
+## 🎓 Education & Continuous Learning
 
-![Komal Ghodke's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=komalghodke&theme=github&hide_border=true)
+### 📚 PGCP-AC — Advanced Computing | C-DAC
+**Feb 2026 – Present**
+
+Currently pursuing Post Graduate Certificate Programme in Advanced Computing, with hands-on learning across Java, DSA, C++, Database Technologies, Web Programming, Software Development, DevOps, and related technologies.
+
+📖 **Learning Repository:**  
+[PGCP-AC-CDAC-2026_LEARNINGS](https://github.com/komalghodke/PGCP-AC-CDAC-2026_LEARNINGS)
+
+A structured collection of notes, practical programs, coding exercises, assignments, and learning resources documenting my C-DAC journey.
+
+### 🎓 Bachelor of Engineering — Computer Engineering
+**2018 – 2021 | 9.34 SGPA**
 
 ---
 
@@ -65,9 +80,34 @@ Welcome to my GitHub profile! I specialize in building secure, scalable platform
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-- [fit-nexus-showcase](https://github.com/komalghodke/fit-nexus-showcase.git) – fit-nexus Holistic Wellness Platform.
+### 🏆 FitNexus — Holistic Wellness Platform
+
+A full-stack wellness platform designed to provide a centralized experience for tracking and managing holistic health and lifestyle data.
+
+Built independently using **Java, Spring Boot, ReactJS, and AWS**, covering:
+
+- 🏗️ Application architecture
+- ⚙️ Backend & REST API development
+- 🎨 ReactJS frontend development
+- 🌐 Multilingual user experience
+- 🔐 Authentication & security
+- 🔍 SEO considerations
+- ☁️ Cloud deployment & infrastructure
+- 🔄 Deployment readiness and integration
+
+### 🌐 Live Application
+
+🔗 **[Open FitNexus](https://fitnexus-frontend.vercel.app/login)**
+
+### 🎥 Project Demo
+
+A complete demonstration of the **FitNexus** application, including all major features and workflows, is available below.
+
+📹 **[Watch FitNexus Demo Video](https://drive.google.com/file/d/1V-UAP2zLRc3aX8AZHLoHk_puqVhQxbtP/view?usp=drive_link)**
+
+🔗 **[View FitNexus Showcase Repository](https://github.com/komalghodke/fit-nexus-showcase.git)**
 
 ---
 
