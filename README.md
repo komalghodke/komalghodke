@@ -175,5 +175,4 @@ I believe good software is not only about writing code — it is about understan
 ---
 
 ## 📫 Connect With Me
-
 [![Contact](https://img.shields.io/badge/Contact-Form-1A2A40?style=for-the-badge&logo=gmail&logoColor=white)](https://komalghodke.github.io/contact.html)
